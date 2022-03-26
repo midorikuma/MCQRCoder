@@ -10,7 +10,7 @@
 
 リソースパックを適用後、コマンド`give @p minecraft:leather_horse_armor{CustomModelData:1,display:{color:0}}`で  
 入手したアイテムの見た目がQRコードとなります。  
-またアイテムタグ`CustomPotionColor`の値を任意の数値にすることでQRコード内の数値も変化します  
+またアイテムタグ`color`の値を任意の数値にすることでQRコード内の数値も変化します  
 アイテムフレームやアーマースタンドにアイテムを持たせ、dataなどから任意の値を入れることで動的にQRコードを変えることもできます。  
 
 
