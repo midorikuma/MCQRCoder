@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom_models/mcqrcoder/qr_generated",
+  "textures": {
+    "layer0": "item/custom_textures/mcqrcoder/display2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/custom_models/mcqrcoder/display1"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom_models/mcqrcoder/display2"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/custom_models/mcqrcoder/display3"
+    }
+  ]
+}
